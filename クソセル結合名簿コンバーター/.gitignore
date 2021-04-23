@@ -1,2 +1,4 @@
 /target_data/*.xlsx
 .vscode
+*.xlsx
+!meibo_base.xlsx
